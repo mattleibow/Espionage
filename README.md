@@ -1,6 +1,6 @@
 # Espionage
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qf56bjnwc1ywvu31/branch/master?svg=true)](https://ci.appveyor.com/project/mattleibow/espionage/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/qf56bjnwc1ywvu31/branch/master?svg=true)](https://ci.appveyor.com/project/mattleibow/espionage/branch/master)  [![NuGet](https://img.shields.io/nuget/dt/Espionage.svg)](https://www.nuget.org/packages/Espionage)  [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Espionage.svg)](https://www.nuget.org/packages/Espionage)
 
 A developer-friendly library for getting started in the world of espionage and clandestine operations.
 
