@@ -10,10 +10,11 @@
     <Description>A developer-friendly library for getting started in the world of espionage and clandestine operations.</Description>
     <Authors>Matthew Leibowitz</Authors>
     <Company>Matthew Leibowitz</Company>
-    <Version>1.0.0</Version>
+    <Version>1.0.0-preview</Version>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\Espionage.xml</DocumentationFile>
+    <PackageIconUrl>https://cdn.rawgit.com/mattleibow/Espionage/8d1cdc4501b6d9b2e2cefff96b055ba8293ce106/icon.png</PackageIconUrl>
   </PropertyGroup>
 
 </Project>
